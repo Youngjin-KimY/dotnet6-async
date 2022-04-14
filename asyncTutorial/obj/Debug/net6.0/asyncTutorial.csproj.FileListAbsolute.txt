@@ -1,0 +1,15 @@
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/bin/Debug/net6.0/asyncTutorial
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/bin/Debug/net6.0/asyncTutorial.deps.json
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/bin/Debug/net6.0/asyncTutorial.runtimeconfig.json
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/bin/Debug/net6.0/asyncTutorial.dll
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/bin/Debug/net6.0/asyncTutorial.pdb
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.csproj.AssemblyReference.cache
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.AssemblyInfoInputs.cache
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.AssemblyInfo.cs
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.csproj.CoreCompileInputs.cache
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.dll
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/refint/asyncTutorial.dll
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.pdb
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/asyncTutorial.genruntimeconfig.cache
+/Users/timyjkim/RiderProjects/asyncTutorial/asyncTutorial/obj/Debug/net6.0/ref/asyncTutorial.dll
